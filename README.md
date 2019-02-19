@@ -1,0 +1,1 @@
+# sample-remote-schema

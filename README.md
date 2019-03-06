@@ -1,4 +1,4 @@
-# sample-remote-schema
+# hasura-sample-remote-schema
 
 1. Schema:
 
